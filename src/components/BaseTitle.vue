@@ -1,5 +1,5 @@
 <template>
-    <div class="felx items-center justify-center gap-4">
+    <div class="flex items-center justify-center gap-4">
         <h1 class="text-6x1 font-thin text-slate-700 uppercase">
             <slot/>
         </h1>
